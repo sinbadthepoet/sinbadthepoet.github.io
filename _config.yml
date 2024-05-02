@@ -43,13 +43,16 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
+      - BALISSET.md
+      - FarCryDroneOperator.md
+      - Dishonored3.md
       - DebtLockedDual.md
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - Boomerangers.md
+      - ProjectFlow.md
+      - GameJams.md
+      - Shocktrooper.md
+      - WageCage.md
+      - Resume.md
 
 sass:
   sass_dir: /assets/css/_sass

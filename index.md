@@ -11,6 +11,16 @@ Hello! I'm Haider Ali, primarily a Game Designer but I love to tackle all kinds 
 
 I focus on creating narrative through gameplay. I believe that video games offer a unique method of storytelling that put players in the driver's seat. Through the choices they make and the actions they take, each player should walk away with an experience that reflects who they are and how they play. This philosophy is at the core of all my game design. Emergent gameplay and narrative, reactive and responsive mechanics, and player expression are something I hope to bring too all the games I work on.
 
+I have experience working with all kinds of tools and software, including:
+- Unreal
+- Unity
+- Obsidian.md
+- C#
+- C++
+- Python
+- Blender
+- GLSL
+
 ## Education and Achievements ##
 
 I studied Game Development at Ontario Tech University in Oshawa, Ontario in Canada. The Game Development and Entrepreneurship program was my opportunity to grow with likeminded students, and I highly recommend it for self-motivated individuals. It has a fantastic community and I made a tonne of friends.
