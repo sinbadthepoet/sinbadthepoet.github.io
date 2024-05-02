@@ -32,9 +32,9 @@ I lead a successful year of growth for the GDSA, beating our performance compare
 ## Professional experience ##
 
 While at Ontario Tech, I took as many opportunities for real world experience I could. On top of leading the GDSA, I worked professors on research whenever possible. My projects include:
-- **Working with the Canadian National Institute for the Blind and OCAD University to design and create user interfaces for those with limited vision.**
-- **Writing tutorial content for students to learn Unreal Engine 5 as the univesity brought the engine into it's cirriculum.**
-- **Researching, testing, and modifying cutting edge 3D reconstructive techniques, including gaussian splatting. I also developed a workflow to generate and playback volumetric video using this tech.**
+- Working with the Canadian National Institute for the Blind and OCAD University to design and create user interfaces for those with limited vision.
+- Writing tutorial content for students to learn Unreal Engine 5 as the univesity brought the engine into it's cirriculum.
+- Researching, testing, and modifying cutting edge 3D reconstructive techniques, including gaussian splatting. I also developed a workflow to generate and playback volumetric video using this tech.
 
 ## Personal Interests ##
 

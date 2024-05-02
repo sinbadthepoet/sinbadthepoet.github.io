@@ -7,7 +7,7 @@ description: A Local Multiplayer Party Game built in Unity.
 ![Key Art](https://i.imgur.com/cWaADST.png "Debtlocked Dual")
 ![Gameplay Screenshot](https://i.imgur.com/CE8fhNs.jpeg "A screenshot of Debtlocked Dual")
 
-[Itch.Io Link](https://kanomisu.itch.io/debtlocked-dual)
+[Itch.Io Link](https://kanomisu.itch.io/debtlocked-dual){:target="_blank"}
 
 WINNER OF UNITY'S CHOICE FOR BEST USE OF GAME ENGINE AT GAMECON 2023
 ============

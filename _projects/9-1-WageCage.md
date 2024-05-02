@@ -6,7 +6,7 @@ description: A social and emotional game satirizing Amazon.
 
 ![Screenshot](https://i.imgur.com/cQB5h8I.png)
 
-[GitHub Link]([https://github.com/GarethDa/WageCage])
+[GitHub Link]([https://github.com/GarethDa/WageCage]){:target="_blank"}
 
 A social and emotional game built to share the struggles of the working class in the modern era, this game makes use of patents and practices of companies like Amazon to create a funny experience commenting on the absurdity of their exploitation. This game was designed for Ontario Tech's Social and Emotional Game Design course in a presentation format which is now lost, but we do have the proof of concept available online.
 

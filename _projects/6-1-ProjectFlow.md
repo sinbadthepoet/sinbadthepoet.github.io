@@ -6,7 +6,7 @@ description: My first game! Programmed in C++.
 
 ![Key Art](https://img.itch.zone/aW1hZ2UvOTcxNTI0LzU1MTc3NjYucG5n/original/oV5G%2BN.png "Project Flow")
 
-[Itch.Io Link](https://acdiorr.itch.io/project-flow)
+[Itch.Io Link](https://acdiorr.itch.io/project-flow){:target="_blank"}
 
 ### NOMINATED FOR BEST FIRST YEAR GAME AND BEST ART AT GAMECON 2021 ###
 
