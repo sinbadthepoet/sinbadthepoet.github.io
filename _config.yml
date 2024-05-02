@@ -13,15 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+twitter: "SinbadThePoet"
+linkedin: "haideralisolar"
+github: "sinbadthepoet"
+instagram: "haiderali.exe"
 
 
 # Markdown
@@ -48,6 +43,7 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
+      - DebtLockedDual.md
       - shortProject.md
       - longerProjectTitle.md
       - redirect.md
