@@ -19,7 +19,7 @@ This year I was President of the GDSA, and did not have the have the time to ful
 Inspired by Effect and Cause and A Crack in the Slab, this project was a fun attempt at learning about stealth systems! As with many of my Game Jam projects, it was definitely overscoped and having to leave the project early didn't help. Still, it was fun to work on.
 
 ### Rewinders (GD Jam 2022) - Lead Game Designer, Programmer ###
-![Gameplay Screenshot](https://i.imgur.com/nuIRBNY.png "A gameplay image of Rewinders"
+![Gameplay Screenshot](https://i.imgur.com/nuIRBNY.png "A gameplay image of Rewinders")
 [Itch.io Link](https://crater-364.itch.io/rewinders){:target="_blank"}
 
 Rewinders is a simple top down shooter where the arena loops temportally! After each round, the previous round plays out as a real time input recreation, and players need to navigate around the obstacles of previous rounds. Unfortunately, this project was scoped for a bigger team but some members of the team left before they could contribute, but too late for us to rescope, and the project didn't function properly in the end as we ran into input issues with Unity. I wanted to call this project clock blockers but they wouldn't let me.

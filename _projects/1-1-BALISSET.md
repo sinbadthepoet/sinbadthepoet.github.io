@@ -6,7 +6,7 @@ description: Ongoing project to jumpstart Immersive Sim development. Launching S
 
 ### BALISSET - Balistics and Logic Immersive Sim Systems & Editor Tools ###
 
-![BALISSET Attribute Debug View](https://i.imgur.com/IkNbZSX.mp4 "A look at BALISSET's Debug View for Attributes")
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DL5nzAUDUAo?si=wRhWzhD9SnkvtUvW&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [BALLISET is in early development, but you can check out the git repo here!](https://github.com/sinbadthepoet/BALISSET){:target="_blank"}
 
