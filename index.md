@@ -7,23 +7,23 @@ profile:
 published: true
 ---
 
-Hello! I'm Haider Ali, primarily a Game Designer but I love to tackle all kinds of problems - programming, 3D modeling, graphics, writing, and more. I've been learning how to create games since 2020, though I've been thinking about game design for much much longer! I'm currently assisting research at Ontario Tech University and should graduate in September of 2024.
+Hello! I'm Haider Ali, primarily a **Game Designer** but I love to tackle all kinds of problems - programming, 3D modeling, graphics, writing, and more. I've been learning how to create games since 2020, though I've been thinking about game design for much much longer! I'm currently assisting research at Ontario Tech University and should graduate in September of 2024.
 
 I focus on creating narrative through gameplay. I believe that video games offer a unique method of storytelling that puts players in the driver's seat. Through the choices they make and the actions they take, each player should walk away with an experience that reflects who they are and how they play. This philosophy is at the core of all my game design. Emergent gameplay and narrative, reactive and responsive mechanics, and player expression are something I hope to bring to all the games I work on.
 
-I have experience working with all kinds of tools and software, including:
+**I have experience working with all kinds of tools and software, including:**
 - Unreal
-- Unity
 - Blueprint
+- Unity
 - Obsidian
 - C#
 - C++
 
 ## Education and Achievements ##
 
-I studied Game Development at Ontario Tech University in Oshawa, Ontario, Canada. The Game Development and Entrepreneurship program was my opportunity to grow with like-minded students, and I highly recommend it for self-motivated individuals. It has a fantastic community and I made a tonne of friends.
+I studied **Game Development and Entrepreneurship at Ontario Tech University** in Oshawa, Ontario, Canada. The Game Development program was my opportunity to grow with like-minded students, and I highly recommend it for self-motivated individuals. It has a fantastic community and I made a tonne of friends.
 
-While at Ontario Tech, I spent 2 years on the **Game Development Student Association (GDSA)**, leading the team as **President** in the 2023-2024 academic year. The GDSA provides students with new opportunities for growth outside of the classroom, and we did that by bringing in guests from the games industry as guest speakers (including devs from Certain Affinity, Arkane, Epic Games and Ubisoft!), hosting game jams to help improve their portfolio, offering workshops where students can improve their craft, and giving them a stage to show off their projects to the Canadian game development industry with [GameCon](https://www.gamecon.ca/){:target="_blank"}.
+While at Ontario Tech, I spent 2 years on the **Game Development Student Association (GDSA)**, leading the team as **President for the 2023-2024 academic year**. The GDSA provides students with new opportunities for growth outside of the classroom, and we did that by bringing in guests from the games industry as guest speakers (including devs from Certain Affinity, Arkane, Epic Games and Ubisoft!), hosting game jams to help improve their portfolio, offering workshops where students can improve their craft, and giving them a stage to show off their projects to the Canadian game development industry with [GameCon](https://www.gamecon.ca/){:target="_blank"}.
 
 I led a successful year of growth for the GDSA, beating our performance compared to each prior year. This helped us earn the **Student Association of the Year** at our faculty's end-of-year gala, where I also earned the **Student Leader of the Year** award.
 
