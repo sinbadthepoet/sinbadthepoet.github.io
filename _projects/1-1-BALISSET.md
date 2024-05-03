@@ -6,6 +6,8 @@ description: Ongoing project to jumpstart Immersive Sim development. Launching S
 
 ### BALISSET - Balistics and Logic Immersive Sim Systems & Editor Tools ###
 
+![BALISSET Attribute Debug View](https://i.imgur.com/IkNbZSX.mp4 "A look at BALISSET's Debug View for Attributes")
+
 [BALLISET is in early development, but you can check out the git repo here!](https://github.com/sinbadthepoet/BALISSET){:target="_blank"}
 
 BALISSET is a foundation for building games within the immersive sim design philosophy. Taking inspiration from [Cogito](https://github.com/Phazorknight/Cogito){:target="_blank"}, a similar project template for the GODOT game engine, BALISSET will provide developers a foundation to start building their Immersive Sim projects in **Unity**.
