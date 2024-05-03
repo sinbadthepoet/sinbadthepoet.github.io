@@ -28,3 +28,7 @@ That's how I landed on the new, robotic bumpers. These robots would follow a par
 Of course, we also had to consider how the bumper would interact with other mechanics. Players could use Dodgeballs to hit the bumper and trigger it's hit effect, draining it of it's power while also launching the ball at a high speed and potentially hitting another player thanks to the ball's autoaim. How did the patrolling bumpers affect the level design of maps built around hotzones, such as the ones using the spinning pachinko launcher?
 
 Ultimately, Debtlocked Dual was an imperfect project, with lots of lessons learned along the way. We ran into technical issues and classes resulted in time constraints, but I'm still proud of what we made!
+
+Here's some gameplay! Unfortunately the audio had to be muted because we all kept cursing at each other as we played, it was TOO fun :)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9EXIdmhQBfA?si=KmvQr_1UVNhVtmUH&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
