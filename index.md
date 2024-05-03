@@ -25,7 +25,7 @@ I studied **Game Development and Entrepreneurship at Ontario Tech University** i
 
 While at Ontario Tech, I spent 2 years on the **Game Development Student Association (GDSA)**, leading the team as **President for the 2023-2024 academic year**. The GDSA provides students with new opportunities for growth outside of the classroom, and we did that by bringing in guests from the games industry as guest speakers (including devs from Certain Affinity, Arkane, Epic Games and Ubisoft!), hosting game jams to help improve their portfolio, offering workshops where students can improve their craft, and giving them a stage to show off their projects to the Canadian game development industry with [GameCon](https://www.gamecon.ca/){:target="_blank"}.
 
-I led a successful year of growth for the GDSA, beating our performance compared to each prior year. This helped us earn the **Student Association of the Year** at our faculty's end-of-year gala, where I also earned the **Student Leader of the Year** award.
+I led a successful year of substantial growth for the GDSA, beating our performance compared to each prior year. At our faculty's end-of-year gala, the GDSA won the **Student Association of the Year**, where I also earned the **Student Leader of the Year** award.
 
 ## Professional experience ##
 
