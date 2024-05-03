@@ -6,7 +6,7 @@ description: Ranked Top 10 for the Ubisoft NEXT Game Design Competition.
 
 ### Ubisoft NEXT Round 2 Detailed Design Document Submission ###
 
-![Drone Operator High Level Pitch Opening Slide]("https://i.imgur.com/M4Se0Do.jpeg" The opening slide of the high level pitch slidedeck.)
+![Drone Operator High Level Pitch Opening Slide](https://i.imgur.com/M4Se0Do.jpeg "The opening slide of the high level pitch slidedeck.")
 
 [Check it out here!](https://drive.google.com/file/d/1QnyRss_KbSLchg2PmfUepw3VFHbWY3rO/view?usp=sharing){:target="_blank"}
 

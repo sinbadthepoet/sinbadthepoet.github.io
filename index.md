@@ -14,12 +14,10 @@ I focus on creating narrative through gameplay. I believe that video games offer
 I have experience working with all kinds of tools and software, including:
 - Unreal
 - Unity
+- Blueprint
 - Obsidian
 - C#
 - C++
-- Python
-- Blender
-- GLSL
 
 ## Education and Achievements ##
 
@@ -33,14 +31,16 @@ I led a successful year of growth for the GDSA, beating our performance compared
 
 While at Ontario Tech, I took as many opportunities for real-world experience as I could. On top of leading the GDSA, I worked with professors on research whenever possible. My projects include:
 - Working with the Canadian National Institute for the Blind and OCAD University to design and create user interfaces for those with limited vision.
+
 - Writing tutorial content for students to learn Unreal Engine 5 as the university brought the engine into its curriculum.
+
 - Researching, testing, and modifying cutting-edge 3D reconstructive techniques, including Gaussian splatting. I also developed a workflow to generate and playback volumetric video using this tech.
 
 ## Personal Interests ##
 
 Beyond games, I enjoy creative writing, reading, 3D printing, learning to draw (hopefully soon this will just say drawing!), and improving my programming! This summer, I'm working on a few different projects to make myself a more effective developer, including an [Immersive Sim Framework for Unity](https://sinbadthepoet.github.io/projects/1-1-balisset/){:target="_blank"} to improve my technical design skills as well as to learn more about how to create effective developer tools for better workflows, a few new theoretical design docs, and some web development!
 
-### Some of my favourite games ###
+#### Some of my favourite games ####
 - Baldur's Gate 3 
 - Divinity: Original Sin II
 - XCOM 2
