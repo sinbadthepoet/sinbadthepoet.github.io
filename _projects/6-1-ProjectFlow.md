@@ -6,6 +6,8 @@ description: My first game! Programmed in C++.
 
 ![Key Art](https://img.itch.zone/aW1hZ2UvOTcxNTI0LzU1MTc3NjYucG5n/original/oV5G%2BN.png "Project Flow")
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CRZQi3bTe-Y?si=EPUtTV044T77i4N8&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Itch.Io Link](https://acdiorr.itch.io/project-flow){:target="_blank"}
 
 ### NOMINATED FOR BEST FIRST YEAR GAME AND BEST ART AT GAMECON 2021 ###

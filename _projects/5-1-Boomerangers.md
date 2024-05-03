@@ -6,6 +6,8 @@ description: A splitscreen FPS with a unique weapon.
 
 ![Key Art](https://img.itch.zone/aW1hZ2UvMTQ1OTY3OC84NTg3MzIyLnBuZw==/original/pXkMxy.png "Boomerangers")
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BYotqm12sfA?si=H_8S75djrFK1uUAx&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [Itch.Io Link](https://kanomisu.itch.io/boomerangers){:target="_blank"}
 
 ### NOMINATED FOR BEST SECOND YEAR GAME AT GAMECON 2022 ###
