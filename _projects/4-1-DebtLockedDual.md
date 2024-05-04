@@ -29,6 +29,6 @@ Of course, we also had to consider how the bumper would interact with other mech
 
 Ultimately, Debtlocked Dual was an imperfect project, with lots of lessons learned along the way. We ran into technical issues and classes resulted in time constraints, but I'm still proud of what we made!
 
-Here's some gameplay! Unfortunately, the audio had to be muted because we all kept cursing at each other as we played, it was TOO fun :)
+Here's some gameplay! Unfortunately, the audio had to be muted because the players were simply having too much fun.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9EXIdmhQBfA?si=KmvQr_1UVNhVtmUH&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
