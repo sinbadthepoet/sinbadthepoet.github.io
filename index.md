@@ -50,4 +50,4 @@ Beyond games, I enjoy creative writing, reading, 3D printing, learning to draw (
 - Deus Ex (2000)
 - Boneworks
 - Fallout: New Vegas
-- Every Halo game ever :)
+- Every Halo game ever
