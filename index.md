@@ -9,7 +9,7 @@ published: true
 
 Hello! I'm Haider Ali, a **Game Designer** who also loves to tackle all kinds of problems - programming, 3D modeling, graphics, writing, and more. I've been developing games since 2020, though I've been thinking about game design for much much longer! I'm **currently assisting research into 3D Reconstruction with Gaussian Splatting and Virtual Avatars** at Ontario Tech University and should graduate in September of 2024.
 
-**[Check out my projects here!](https://sinbadthepoet.github.io/projects/)**
+[Check out my projects here!](https://sinbadthepoet.github.io/projects/)
 
 I focus on creating narrative through gameplay. I believe that video games offer a unique method of storytelling that puts players in the driver's seat. Through the choices they make and the actions they take, each player should walk away with an experience that reflects who they are and how they play. This philosophy is at the core of all my game design. Emergent gameplay and narrative, reactive and responsive mechanics, and player expression are something I hope to bring to all the games I work on.
 
