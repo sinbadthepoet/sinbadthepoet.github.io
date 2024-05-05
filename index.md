@@ -20,6 +20,7 @@ I focus on creating narrative through gameplay. I believe that video games offer
 - Obsidian
 - C# Scripting
 - Blender (for creating Diagrams)
+- Excel
 
 ## Education and Achievements ##
 
