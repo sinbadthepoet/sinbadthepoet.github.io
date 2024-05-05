@@ -1,7 +1,7 @@
 ---
 layout: post
 title: (WIP) GDD - Dishonored 3 Protagonist
-description: A GDD for a theoretical Dishonored 3, used as practice to demonstrate  systemic design thinking. A companion to BALISSET.
+description: A GDD for a theoretical Dishonored 3. Practice to demonstrate  systemic design thinking. A companion to BALISSET.
 ---
 
 [You can find an early, high-level draft of the document here](https://docs.google.com/document/d/1RJrWDRj_b_p5VogWciIO_4T_7RIOkvc8JwoqEyljlbo/edit){:target="_blank"}
