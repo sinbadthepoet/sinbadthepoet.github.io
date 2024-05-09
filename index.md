@@ -17,7 +17,7 @@ I focus on creating narrative through gameplay. I believe that video games offer
 - Unreal
 - Blueprint
 - Unity
-- Obsidian
+- Obsidian/Confluence
 - C# Scripting
 - Blender (for creating Diagrams)
 - Excel
