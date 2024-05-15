@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Hello! I'm Haider Ali, a **Game Designer** who also loves to tackle all kinds of problems - programming, 3D modeling, graphics, writing, and more. I've been developing games since 2020, though I've been thinking about game design for much much longer! I'm **currently assisting research into 3D Reconstruction with Gaussian Splatting and Virtual Avatars** at Ontario Tech University and should graduate in September of 2024.
+Hello! I'm Haider Ali, a **Game Designer** who also loves to tackle all kinds of problems - programming, 3D modeling, graphics, writing, and more. I've been developing games since 2020, though I've been thinking about game design for much much longer! I'm **currently leading research into 3D Reconstruction with Gaussian Splatting and Virtual Avatars** at Ontario Tech University and graduate in September of 2024.
 
 **[Check out my projects here!](https://sinbadthepoet.github.io/projects/)**
 
