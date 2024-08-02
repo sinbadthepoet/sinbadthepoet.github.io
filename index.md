@@ -41,7 +41,7 @@ While at Ontario Tech, I took as many opportunities for real-world experience as
 
 ## Personal Interests ##
 
-Beyond games, I enjoy creative writing, reading, 3D printing, learning to draw (hopefully soon this will just say drawing!), and improving my programming! This summer, I'm working on a few different projects to make myself a more effective developer, including an [Immersive Sim Framework for Unity](https://sinbadthepoet.github.io/projects/1-1-balisset/){:target="_blank"} to improve my technical design skills as well as to learn more about how to create effective developer tools for better workflows, a few new theoretical design docs, and some web development!
+Beyond games, I enjoy creative writing, reading, 3D printing, learning to draw (hopefully soon this will just say drawing!), and improving my programming! This summer, I've been focusing on my research position but I have a few projects that I hope to pick back up once it's finished! The focus of these projects is to make myself a more effective developer, and the one I'm most excited to get rolling is my [Immersive Sim Framework for Unity](https://sinbadthepoet.github.io/projects/1-1-balisset/){:target="_blank"}. I'm aiming to improve my technical design skills as I work on it, as well as to learn more about how to create effective developer tools for better workflows.
 
 #### Some of my favourite games ####
 - Baldur's Gate 3 

@@ -8,11 +8,11 @@ description: Ongoing project to jumpstart Immersive Sim development. Launching S
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DL5nzAUDUAo?si=wRhWzhD9SnkvtUvW&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[BALLISET is in early development, but you can check out the git repo here!](https://github.com/sinbadthepoet/BALISSET){:target="_blank"}
+[BALLISET development is on pause until August 22nd, but you can check out the git repo here!](https://github.com/sinbadthepoet/BALISSET){:target="_blank"}
 
 BALISSET is a foundation for building games within the immersive sim design philosophy. Taking inspiration from [Cogito](https://github.com/Phazorknight/Cogito){:target="_blank"}, a similar project template for the GODOT game engine, BALISSET will provide developers a foundation to start building their Immersive Sim projects in **Unity**.
 
-BALISSET started out as an exercise in my own technical design skills, and as the foundation for project I was hoping to work towards called Project Fuse. The idea to publish the project as open source, and put effort into improving the workflow came from COGITO. Now, BALISSET is being worked on by a small team, targetting a release in September 2024.
+BALISSET started out as an exercise in my own technical design skills, and as the foundation for project I was hoping to work towards called Project Fuse. The idea to publish the project as open source, and put effort into improving the workflow came from COGITO. For now, BALISSET is on pause as I focus on my current research position working on gaussian splatting based avatars, but I'm targetting a release in October 2024.
 
 The framework is planning to include the following features:
 - A sophisticated inheritance hierarchy and smart use of interfaces to allow for easily expandable code.
