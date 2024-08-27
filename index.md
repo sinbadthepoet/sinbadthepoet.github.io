@@ -13,7 +13,7 @@ Hello! I'm Haider Ali, a **Game Designer** with a fiery passion for immersive si
 
 I focus on creating narrative through gameplay. I believe that video games offer a unique method of storytelling that puts players in the driver's seat. Through the choices they make and the actions they take, each player should walk away with an experience that reflects who they are and how they play. This philosophy is at the core of all my game design. Emergent gameplay and narrative, reactive and responsive mechanics, and player expression are something I hope to bring to all the games I work on.
 
-**I have experience working with all kinds of tools and software, including:**
+**I have experience working with all kinds of tools and software, including**
 - Unreal
 - Blueprint
 - Unity
