@@ -7,8 +7,7 @@ profile:
 published: true
 ---
 
-Hello! I'm Haider Ali, a **Game Designer** with a fiery passion for immersive sims, emergent narrative, and systemic game design! I've been developing games since 2020, though I've been thinking about game design for much much longer! I recently graduated from Ontario Tech Univeristy and completed a research position working on 3D Reconstruction, Gaussian Splatting and Virtual Avatars.
-
+Hello! I'm Haider Ali, a **Game Designer** with a fiery passion for immersive sims, emergent narrative, and systemic game design! I've been developing games since 2020, though I've been thinking about game design for much longer! I recently graduated from Ontario Tech University and completed a research position working with 3D Reconstruction, Gaussian Splatting, and Virtual Avatars.
 
 **[Check out my projects here!](https://sinbadthepoet.github.io/projects/)**
 
